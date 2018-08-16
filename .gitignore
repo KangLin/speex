@@ -1,3 +1,10 @@
+*.opensdf
+*.filters
+*.suo
+*.sdf
+*.htm
+Debug/
+Backup/
 *.o
 *.lo
 Makefile.in
